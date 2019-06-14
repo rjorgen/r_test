@@ -1,2 +1,2 @@
 # r_test
-testing git with RStudio
+This is a line from RStudio
